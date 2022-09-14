@@ -71,5 +71,7 @@ group :test do
   gem 'webdrivers'
 end
 
-gem 'jsbundling-rails'gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'jsbundling-rails'
+gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem 'hotwire-rails', '~> 0.1.0'
